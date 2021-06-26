@@ -5,8 +5,8 @@ public class CSE215Lab2Task1 {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         switch (n % 2) {
-            case 0 -> System.out.println("EVEN");
-            case 1 -> System.out.println("ODD");
+            case 0: System.out.println("EVEN");break;
+            case 1: System.out.println("ODD");break;
         }
     }
 }
