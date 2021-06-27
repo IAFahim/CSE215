@@ -1,14 +1,12 @@
-import java.util.Scanner;
+import java.util.Random;
 
 public class Main {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int n = sc.nextInt();
-        System.out.println(womensAge(n));
-    }
+        int i=0;
+        for ( i = 0; i < 3; i++) {
 
-    public static String womensAge(int n) {
-        return n + "? That's just "+ (20+ n % 2) + ", in base " + n / 2 + "!";
+        }
+        System.out.println(i);
     }
 
 }
