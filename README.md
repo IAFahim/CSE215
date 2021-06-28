@@ -22,5 +22,14 @@ NSU
 **CSE215Lab3Task5**
 ![CSE215Lab3Task5](https://imgur.com/KgL5ulX.png)
 
+**CSE215PracticeLab3Task1**
+![CSE215PracticeLab3Task1](https://imgur.com/PC3TvDh.png)
+
+**CSE215PracticeLab3Task2**
+![CSE215PracticeLab3Task2](https://imgur.com/T9YQsce.png)
+
+**CSE215PracticeLab3Task3**
+![CSE215PracticeLab3Task3](https://imgur.com/wVWddWY.png)
+
 
 
